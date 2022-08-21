@@ -8,7 +8,7 @@ At Team Maverick, we are proposing a streamlined status reporting system to supe
 
 2. The data will be stored inside an MS Excel database, where you can check to see the DB being updated. 
 
-3. Once the forms are completed among employees, we use Power Autommate to send the dashboard of user statuses and a BI of team insights to the group. 
+3. Once the forms are completed among employees, we use Power Autommate to send the dashboard of user statuses and a BI of team insights to the group teams channel. 
 
 4. Inside the Power App Dashboard `insert name`, a manager can schedule meetings with employees that seek help at a time where both members are available. Click the Button that says 'Schedule Meeting' to create a meeting inside the outlook calendar. 
 
