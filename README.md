@@ -5,6 +5,7 @@ At Team Maverick, we are proposing a streamlined status reporting system to supe
 ## Instructions
 
 1. Run the Power App `Maverick Questionnaire` to fill out the questionnaire that collects information on your status: work completed yesterday, agenda for today, and any issues that block workflow. 
+ https://apps.powerapps.com/play/e/default-1b6f644f-0f80-4d29-ad69-9d5611bb9aa5/a/bb5e27c1-5728-46bc-b3b2-6805bfe8027e?tenantId=1b6f644f-0f80-4d29-ad69-9d5611bb9aa5&source=portal
 
 2. The data will be stored inside an MS Excel database, where you can check to see the DB being updated. 
 
