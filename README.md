@@ -4,12 +4,12 @@ At Team Maverick, we are proposing a streamlined status reporting system to supe
 
 ## Instructions
 
-1. Run the Power App to fill out the questionnaire that collects information on your status: work completed yesterday, agenda for today, and any issues that block workflow. 
+1. Run the Power App `Insert Name` to fill out the questionnaire that collects information on your status: work completed yesterday, agenda for today, and any issues that block workflow. 
 
 2. The data will be stored inside an MS Excel database, where you can check to see the DB being updated. 
 
 3. Once the forms are completed among employees, we use Power Autommate to send the dashboard of user statuses and a BI of team insights to the group. 
 
-4. Inside the Dashboard, a manager can schedule meetings with employees that seek help at a time where both members are available. 
+4. Inside the Power App Dashboard `insert name`, a manager can schedule meetings with employees that seek help at a time where both members are available. Click the Button that says 'Schedule Meeting' to create a meeting inside the outlook calendar. 
 
-5. In the Bi, ... add info. 
+5. In the BI `insert name`, you can see the trends and charts generated from the aforementioned excel database. 
