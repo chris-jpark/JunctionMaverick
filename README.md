@@ -11,5 +11,6 @@ At Team Maverick, we are proposing a streamlined status reporting system to supe
 3. Once the forms are completed among employees, we use Power Autommate to send the dashboard of user statuses and a BI of team insights to the group teams channel. 
 
 4. Inside the Power App Dashboard `Maverick Dashboard`, a manager can schedule meetings with employees that seek help at a time where both members are available. Click the Button that says 'Schedule Meeting' to create a meeting inside the outlook calendar. 
+https://apps.powerapps.com/play/e/099b9359-423f-eb0f-a550-48c33843b014/a/e775d0d5-4029-4cbc-9d35-0a983c9c5cf8?tenantId=78aac226-2f03-4b4d-9037-b46d56c55210&source=portal
 
 5. In the BI `Maverick Insights`, you can see the trends and charts generated from the aforementioned excel database. 
